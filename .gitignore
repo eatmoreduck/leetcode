@@ -24,5 +24,6 @@ hs_err_pid*
 
 
 out
-*.DS_Store
+**/.DS_Store
 .vscode
+.idea
